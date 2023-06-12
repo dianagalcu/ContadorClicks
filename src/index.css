@@ -1,0 +1,39 @@
+button{
+  width: 250px;
+  height: 80px;
+  font-size: 35px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+  border: 2px solid white;
+  border-radius: 15px;
+  margin:5px;
+  cursor:pointer
+}
+
+button:hover{
+  background-color: #00471b;
+}
+
+.boton-click{
+  background-color: #002ead;
+}
+
+.boton-reiniciar{
+  background-color: #5a01a7;
+}
+
+.contador{
+  width: 300px;
+  height: 300px;
+  font-size: 160px;
+  padding: 25px;
+  color:white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border:8px solid white;
+  margin-bottom: 15px;
+}
+
+
